@@ -15,7 +15,8 @@ body{
 }
 .header-2 {
   font-size: 28px;
-  align-content: justify;
+  align-content: center;
+  align-self: wrap;
   font-family: sans-serif;
  color: pink;
   width: 1200px;
